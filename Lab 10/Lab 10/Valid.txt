@@ -1,0 +1,10 @@
+Residential 0 250000 1 1716 Toltec Cr
+Residential 1 500000 0 2023 Deer Springs Dr
+Residential 0 750000 0 2043 Shadow Brook Way
+Residential 1 1000000 1 553 N. Seven Peaks Blvd
+Commercial 0 250000 0 .25 1716 Apple Sauce
+Commercial 0 100000 1 .1 1499 Zebra Way
+Commercial 1 500000 0 0.50 13 Zebra Way
+Commercial 1 1000000 1 0.2 100000 Andes Mtns
+Residential 1 243242 1 2023 Bear Springs Dr
+Commercial 0 114000 0 .3 2023 Air Springs Dr

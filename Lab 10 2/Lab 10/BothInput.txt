@@ -1,0 +1,10 @@
+Residential 1 55000 0 50 Hansbrough Hollow
+Residental 0 544 1 54 Tricked ya
+Commercial 0 100000 1 0.25 2 Weezy Way
+Commerical 1 9999 72 no boolean
+Residential 0 78944 1 50 Ginyard Gateway
+Residential 
+Commercial 0 12367 0 .22 50 Hicks Dr
+Commercial 93 incorrect
+Residential 0 56723 1 100 Paige Pkway
+Commercial 1 555553 1 .5 1000 Paige Pkway

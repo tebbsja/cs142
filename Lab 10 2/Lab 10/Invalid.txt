@@ -1,0 +1,10 @@
+Corporate 1 700000 0 9 Chapel Hill
+Residential 100000 0 4 Chapel Hill
+Residential 1 0 4 Franklin Street
+Residential
+Commercial
+Commercial 1 500 52 Cherry Lane
+Go Heels!
+Residential 0 40000 Ramsese Road
+Commercial 50000 0 .2 Sugarland St
+Residential 1 323423 32 Pretty Close Ln
